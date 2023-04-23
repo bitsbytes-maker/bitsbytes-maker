@@ -1,4 +1,4 @@
-![Alt text](images_for_me/img1.jpg)
+![Alt text]([images_for_me/img1.jpg](https://github.com/bitsbytes-maker/images_for_me))
 Hi there, I'm Maloy Kumar Devnath! 👋
 
 I'm a doctoral student in Information Systems at the University of Maryland, Baltimore County, where I work in the Mobile, Pervasive, and Sensor Computing Lab. My research focuses on using mmWave radar sensors in smart home systems and autonomous detection systems, as well as developing inter-communication platforms for executing DL models across multiple nodes. 
