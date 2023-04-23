@@ -8,4 +8,4 @@ I was also an Assistant Professor at Bangabandhu Sheikh Mujibur Rahman Science &
 
 When I'm not working, you can usually find me playing video games, reading sci-fi novels, or spending time with my family and friends. I'm a big fan of open-source software and enjoy contributing to various projects on GitHub, so feel free to check out my repositories and reach out if you're interested in collaborating!
 
-Thanks for stopping by, and I look forward to connecting with you through my email (maloyd1@umbc.edu) 😊
+Thanks for stopping by, and I look forward to connecting with you through my email (maloyd1@umbc.edu)! 😊
